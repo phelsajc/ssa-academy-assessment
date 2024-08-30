@@ -1,8 +1,9 @@
 # AAS Academy Assessment
 # Config Environment
 1. composer install
-2. Set up database credentials in  ```.env``` file
-3. php artisan key:generate
+2. cp .env.example .env
+3. Set up database credentials in  ```.env``` file
+4. php artisan key:generate
 # Database
 1. Migrate database ```php artisan migrate```
 2. ```php artisan db:seed --class=CreateAdmin```, this will create admin user for you email: admin@test.com and  password: P@ssw0rd
