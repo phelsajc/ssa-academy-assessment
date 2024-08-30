@@ -1,4 +1,12 @@
 # AAS Academy Assessment
+Package | Version
+--- | ---
+[Node](https://nodejs.org/en/) | 16.20.0
+[Npm](https://nodejs.org/en/)  | 8.19.4
+[Composer](https://getcomposer.org/)  | V2.7.7
+[Php](https://www.php.net/)  | 7.2.5 - 8.0.28
+[Mysql](https://www.mysql.com/)  |10.4.28
+
 # Config Environment
 1. composer install
 2. cp .env.example .env
